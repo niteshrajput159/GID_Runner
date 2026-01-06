@@ -60,6 +60,6 @@ def load_images():
     menu_bg = pygame.transform.scale(menu_bg, (500, 700))
     print("Assets loaded successfully!")
 
-
+# Hello new main
 def get(name):
     return ASSETS.get(name)
