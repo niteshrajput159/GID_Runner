@@ -61,5 +61,6 @@ def load_images():
     print("Assets loaded successfully!")
 
 # this is the new data
+# Hello
 def get(name):
     return ASSETS.get(name)
