@@ -1,0 +1,25 @@
+{
+    "users": {
+        "nitesh": {
+            "high_score": 962,
+            "coins": 2294
+        },
+        "raj": {
+            "high_score": 24,
+            "coins": 2
+        },
+        "aanchal": {
+            "high_score": 184,
+            "coins": 64
+        },
+        "bbbb": {
+            "high_score": 81,
+            "coins": 8
+        },
+        " nitesh": {
+            "high_score": 67,
+            "coins": 30
+        }
+    },
+    "current_user": "nitesh"
+}
